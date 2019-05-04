@@ -1,0 +1,14 @@
+Executable : /Users/emery/AndroidStudio/android-sdk-macosx/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Android.mk
+NDK_APPLICATION_MK=/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/lib
+/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so
+jvmArgs : 
+

@@ -1,0 +1,1 @@
+make: *** No rule to make target `/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/src/YourSourceHere.c', needed by `/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/main/YourSourceHere.o'.  Stop.

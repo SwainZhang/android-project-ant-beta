@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    build-mode="COLD"
+    density="560dpi"
+    format="10"
+    plugin-version="3.3.2"
+    timestamp="1556960400779"
+    token="5451081600260055440"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1556958423700"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1556959345295"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1556960400779"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

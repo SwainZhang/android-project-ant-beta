@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Android.mk",
+    "/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/emery/AndroidStudio/android-sdk-macosx/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/lib clean"
+  ],
+  "libraries": {
+    "SDL2-debug-x86": {
+      "artifactName": "SDL2",
+      "buildCommand": "/Users/emery/AndroidStudio/android-sdk-macosx/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/lib /Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so",
+      "abi": "x86",
+      "output": "/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so"
+    },
+    "main-debug-x86": {
+      "artifactName": "main",
+      "buildCommand": "/Users/emery/AndroidStudio/android-sdk-macosx/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/lib /Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj/local/x86/libmain.so",
+      "abi": "x86",
+      "output": "/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj/local/x86/libmain.so"
+    }
+  }
+}

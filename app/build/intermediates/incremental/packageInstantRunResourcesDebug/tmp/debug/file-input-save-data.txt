@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 04 16:26:40 CST 2019
+0.baseType=DIRECTORY
+0.base=/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.path=image.bmp
+0.set=ASSET
+count=1

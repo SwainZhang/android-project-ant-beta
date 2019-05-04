@@ -1,0 +1,1 @@
+make: `/Users/emery/Downloads/SDL-f1084c419f33/android-project-ant-beta/app/build/intermediates/ndkBuild/debug/obj/local/x86/libSDL2.so' is up to date.
